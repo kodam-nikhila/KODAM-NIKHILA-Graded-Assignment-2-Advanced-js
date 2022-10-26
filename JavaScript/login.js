@@ -16,7 +16,7 @@ function validate(){
   
   if (username2 === user) {
     if (password2 === pass) {
-      window.location.href = 'ResumePage.html';
+      window.location.href = '../resumes-list.html';
     } else {
       alert("Wrong password");
     }
