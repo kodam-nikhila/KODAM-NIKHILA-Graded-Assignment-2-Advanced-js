@@ -24,7 +24,7 @@
 }
 
 .resume-header {
-    background-color: #e74219;
+    background-color: #7af075;
     position: relative;
     display: flex;
     align-items: center;
@@ -95,7 +95,7 @@ h2 {
 
 .basics {
     text-align: right;
-    background: #c0abab;
+    background: #7cb4f0;
     height: fit-content;
 }
 

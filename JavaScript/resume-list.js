@@ -78,7 +78,7 @@ const checkResumes = () => {
 // validateUser();
 
 // Data.json was uploaded to npoint as browser was not allowing to read a local file automatically
-fetch('../Resources/Data/Data.json')
+fetch('https://api.npoint.io/60b7cfebbb9adb3fb90f')
 .then(response => response.json())
 .then(respData => {
 	loader.style.display= 'none';
